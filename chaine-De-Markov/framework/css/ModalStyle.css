@@ -1,0 +1,18 @@
+/* Minimal modal styling for the framework stub */
+.fw-modal {
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 8px;
+}
+
+.fw-modal input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  background: linear-gradient(90deg, #4a90e2, #6ad);
+  border-radius: 4px;
+  outline: none;
+}
+
+.fw-modal div {
+  margin-bottom: 6px;
+}
